@@ -15,9 +15,21 @@ I think I could've added even more detail to my descriptions in project 1. Other
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
-I felt that I was able to understand the user's needs via the technical requirements and interview. I created use cases and diagrams to fit these use cases, which allowed me to visualize the user's needs. I then adapted the needs into what would be possible for a website. The users are the ones that use the site the most, so their needs must be at the forefront. In addition, making sure the site is easy to use and comprehend is also important. Attached are all the Use Case Diagrams I created
-<img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/c8267529-e438-4bb9-872c-c69a1b17d991" />
+I felt that I was able to understand the user's needs via the technical requirements and interview. I created use cases and diagrams to fit these use cases, which allowed me to visualize the user's needs. I then adapted the needs into what would be possible for a website. The users are the ones that use the site the most, so their needs must be at the forefront. In addition, making sure the site is easy to use and comprehend is also important. Attached are all the Use Case Diagrams I created. 
 
+UML Case Diagram: 
+<img width="1324" height="1188" alt="image" src="https://github.com/user-attachments/assets/72a60370-9756-4567-8cfd-80022cfcf9a6" />
+
+UML Activity Diagrams 
+<img width="996" height="1382" alt="image" src="https://github.com/user-attachments/assets/9afa798b-05cd-4c5e-b427-6a9a60f92462" /> <img width="1200" height="1314" alt="image" src="https://github.com/user-attachments/assets/1008ed9d-b88c-4247-818e-6f152098c413" />
+
+
+UML Sequence Diagram
+<img width="1436" height="640" alt="image" src="https://github.com/user-attachments/assets/567526b1-89b2-4a42-9488-06ef57624b80" />
+
+
+UML Class Diagram
+<img width="1378" height="768" alt="image" src="https://github.com/user-attachments/assets/dd66644f-6484-4e6e-8c22-b1c74ef00a0a" />
 
 
 
