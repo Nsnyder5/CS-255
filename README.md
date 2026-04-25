@@ -1,7 +1,9 @@
 # CS-255
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
 
-DriverPass essentially provides a better way for student drivers to study for their theoretical driving exams, and schedule appointments to practice their practical driving tests. DriverPass wanted to create a website that allows customers to create an account, purchase a study package, study and take exams online, and schedule appointments with drivers to practice. Employees of DriverPass also need the ability to purchase packages for customers and schedule their appointments.
+DriverPass essentially provides a better way for student drivers to study for their theoretical driving exams, and schedule appointments to practice their practical driving tests. DriverPass wanted to create a website that allows customers to create an account, purchase a study package, study and take exams online, and schedule appointments with drivers to practice. Employees of DriverPass also need the ability to purchase packages for customers and schedule their appointments. Below is the Gnatt Chart I created: 
+<img width="2042" height="1196" alt="image" src="https://github.com/user-attachments/assets/a4f94600-54ac-47db-91fd-58e3c8a77a9e" />
+
 
 What did you do particularly well?
 
