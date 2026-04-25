@@ -16,7 +16,7 @@ I think I could've added even more detail to my descriptions in project 1. Other
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
 
 I felt that I was able to understand the user's needs via the technical requirements and interview. I created use cases and diagrams to fit these use cases, which allowed me to visualize the user's needs. I then adapted the needs into what would be possible for a website. The users are the ones that use the site the most, so their needs must be at the forefront. In addition, making sure the site is easy to use and comprehend is also important. Attached is the Use Case Diagram I created: 
-<img width="1576" height="1588" alt="image" src="https://github.com/user-attachments/assets/06ce05ac-9a7d-4379-9d63-9604b885fb33" />
+
 
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
